@@ -1,5 +1,5 @@
 ---
-title: Quick Dashy Fix Test
+title: Quick Dashy Fix
 permalink: /quick-dashy-unraid-fix/
 tags: Linux HomeLab UnRaid
 categories: Quick_Tips
